@@ -19,7 +19,7 @@ Install the required libraries using `pip`:
 bash
 pip install Pillow watchdog
 
-### Instalation
+### Installation
 git clone https://github.com/jersonenriquezv/convert.git
 cd convert
 ### Run the script 
